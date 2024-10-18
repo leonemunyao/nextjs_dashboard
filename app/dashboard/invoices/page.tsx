@@ -1,0 +1,5 @@
+// This is the invoices page
+
+export default function Page() {
+    return <p>Invoices Page</p>
+}
