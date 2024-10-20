@@ -36,3 +36,7 @@ In Nextjs you can use the <Link> Component to link between pages in your applica
 Pattern: Showing active links
 
 This is a common UI pattern to show an actve link to indicate to the user what page they are currently on. To do this you get the users current path from the URL. Nextjs provides hook called usePathname() that you can use to check the path and implement this pattern 
+
+
+Seeding the Database.
+Seeding creates a server-side endpoint that you can access in other browsers to start populating the database. 
