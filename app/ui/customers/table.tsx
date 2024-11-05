@@ -5,6 +5,7 @@ import {
   CustomersTableType,
   FormattedCustomersTable,
 } from '@/app/lib/definitions';
+import React from 'react';
 
 export default async function CustomersTable({
   customers,

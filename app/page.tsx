@@ -3,6 +3,7 @@ import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import { lusitana } from '@/app/ui/fonts'; // importing lusitana from fonts.ts
 import Image from 'next/image';
+import React from 'react';
 
 export default function Page() {
   return (
